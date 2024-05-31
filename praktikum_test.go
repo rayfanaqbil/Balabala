@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/indrariksa/cobapakcage/model"
-	"github.com/indrariksa/cobapakcage/module"
+	"github.com/rayfanaqbil/Balabala/model"
+	"github.com/rayfanaqbil/Balabala/module"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

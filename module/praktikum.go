@@ -1,10 +1,10 @@
-package _714220044
+package module
 
 import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/indrariksa/cobapakcage/model"
+	"github.com/rayfanaqbil/Balabala/model"
 	"time"
 
 	"go.mongodb.org/mongo-driver/bson"
